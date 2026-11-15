@@ -1,0 +1,7 @@
+id=addowns_pritom_m10
+name=AdDowns
+version=v0.1
+versionCode=1
+author=CyberspaceVII
+banner=https://cyberspace7.org/assets/ksun/imgs/addowns-pritom-m10.png
+description=Removes the preinstalled ADUPS/incar firmware-update service, which reports the device to overseas servers and can silently install software. Disable this module to restore it.
